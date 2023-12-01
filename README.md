@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @shaheeriversion
+👋 Hi, I’m @shaheeriversion
 
-I am a Full Stack Front-End Web Developer Playing since 2018 With Toys Like jQuery, CSS and HTML.
-- 👀 I’m interested in MongoDB
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+A Front-End Engineer Playing with Toys Like Vue, jQuery and CSS3, Since 2018.
+- ✨ I’m interested in Vue
+- 🌱 I’m currently learning Vue
+- 💞️ I’m looking to collaborate on Vue 
 
 <!---
 shaheeriversion/shaheeriversion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
